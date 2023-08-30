@@ -36,7 +36,7 @@ To use the Even-Length Palindromic Substring Detection program, follow these ste
 
 ## Usage
 
-1. Run the program using a Python interpreter: `python eertree_palindrome.py`.
+1. Run the program using a Python interpreter: `python 2048 Game.py`.
 2. Observe the detected even-length palindromic substrings in the output.
 
 ## Eertree
